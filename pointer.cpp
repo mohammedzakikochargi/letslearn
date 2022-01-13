@@ -26,7 +26,7 @@ int main()
 
     (*ptr1--);
     (*ptr2--);
-    cout<<"after increment of pointer "<<endl;
+    cout<<"after decrement of pointer "<<endl;
     cout<<*ptr1;
     cout<<*ptr2;
 
