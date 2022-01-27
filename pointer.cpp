@@ -22,7 +22,7 @@ int main()
     cout<<*ptr2;
 
     sum = *ptr1+*ptr2;
-    cout<<"sum is:"<<sum<<endl;
+    cout<<"sum is equal to:"<<sum<<endl;
 
     (*ptr1--);
     (*ptr2--);
